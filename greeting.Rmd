@@ -1,0 +1,16 @@
+---
+title: "9:00 Section"
+
+##Shelby Chesko
+##18 October 2017
+
+#### Here is some arithmatic:
+```{r}
+x<-3
+y<-4
+x-sqrt(y)
+```
+```{r}
+## [1] 1
+```
+
